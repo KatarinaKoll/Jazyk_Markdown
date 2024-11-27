@@ -6,3 +6,9 @@ Repo pre trening jazyka Markdown
 # 1. Nazov projektu
 
 # 2. Popis projektu
+
+## Nadpis H2 - nadpis druhej urovne - podnadpis
+
+## Nadpis H2 - nadpis druhej urovne - podnadpis
+
+### Nadpis H3 - nadpis tretej urovne
