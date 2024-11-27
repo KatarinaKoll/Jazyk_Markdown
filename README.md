@@ -5,4 +5,4 @@ Repo pre trening jazyka Markdown
 
 # 1. Nazov projektu
 
-# 2. Posis prijektu
+# 2. Popis projektu
